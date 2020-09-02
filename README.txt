@@ -1,45 +1,30 @@
+Note
+====
+ME – Resume and Personal Portfolio Responsive Template
 
-TITLE: 
-Shift - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Me is a clean, modern and responsive professional looking resume / personal portfolio template. well crafted Designed for user experience on mulit devices like desktop, laptop, smartphones. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the your requirements. Included with all latest technology HTML5 CSS3, jQuery and bootstrap.
 
 
-CREDITS:
+Key features
+Twitter Bootstrap 3.2.0
+Valid HTML5 & CSS3
+FontAwesome Icons
+Gallery
+Fully Responsive
+Browser Compatability
+Contact Form
 
-Bootstrap
-http://getbootstrap.com/
+Responsive, Bootstrap Mobile First Web Template
+ 
+Author URI: http://webthemez.com/
 
-jQuery
-http://jquery.com/
+License: Free to use for personal and commercial, but you need to place back link in the bottom of the template(Template by: webthemez.com).
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
 
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Demo Images:
-http://unsplash.com
-http://blog.gessato.com
+Credits
+=======
+Framework  http://getbootstrap.com
+Images	Unsplash (http://unsplash.com - CC0 licensed) 
+Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 
